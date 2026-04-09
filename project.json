@@ -1,0 +1,23 @@
+{
+  "overview": "A beautiful single-page professional portfolio and resume website with a pastel Pinterest-inspired design. Features profile photo, about section, GitHub/LinkedIn/coding platform links, certifications, internship projects, active mini projects, and contact info — all with a soft lavender, blush pink, and sky blue color palette.",
+  "features": [
+    "Pastel Pinterest-vibe design with lavender, blush pink, sky blue, and mint palette",
+    "Hero section with profile photo in a soft rounded frame",
+    "About Me with bio, personal details, and social/platform links",
+    "Certifications grid with styled cards and badge areas",
+    "Projects showcase split into Internship Projects and Active Mini Projects",
+    "Sticky navigation header with smooth scroll",
+    "Contact section with clickable Gmail link",
+    "Responsive layout — beautiful on mobile, tablet, and desktop"
+  ],
+  "category": "showcase",
+  "tags": [
+    "portfolio",
+    "resume",
+    "pastel",
+    "pinterest",
+    "professional",
+    "personal-brand"
+  ],
+  "last_updated": "2026-04-09T06:49:28.095Z"
+}
